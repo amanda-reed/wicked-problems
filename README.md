@@ -1,8 +1,8 @@
 # Wicked Problems
 
 ## Plotting with R
-![](path_between_homes.png)
+![]()
 
-The plot above shows the running path of a boy. Each plotted number indicates a dwelling within the plot of land. Green circles of varying size indicate trees within the area. 
+The plot above shows the running path of a boy. I defined x to be the integers from 1 to 10 and y to have the same numbers, in decreasing order. I then plotted the points, connected by a dotted line, and labeled the axes accordingly.  
 
 
