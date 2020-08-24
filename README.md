@@ -1,9 +1,3 @@
 # Wicked Problems
 [Plotting with R](https://amanda-reed.github.io/Plotting-with-R/)
 
-## Plotting with R
-![](running_boy.png)
-
-The plot above shows the running path of a boy. I defined x to be the integers from 1 to 10 and y to have the same numbers, in decreasing order. I then plotted the points, connected by a dotted line, and labeled the axes accordingly.  
-
-
