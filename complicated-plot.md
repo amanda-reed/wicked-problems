@@ -5,6 +5,6 @@
 add comments
 
 ### Challenge Question
-![](Path_between_homesChallenge.png)
+![](Path_Between_HomesChallenge.png)
 
 add comments
