@@ -4,7 +4,7 @@
 ![](population.pdf)
 
 ### Difference in Total Population between Source and Remote Population Datasets
-![](population_diff.pdf)
+![](amanda-reed.github.io/population.pdf)
 
 ### Difference in percent Female between Source and Remote Population Datasets
 ![](pfemale_diff.pdf)
