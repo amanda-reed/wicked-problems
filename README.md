@@ -12,4 +12,4 @@ My name is Amanda Reed and I am currently a freshman at the College of William a
 
 ## Data Management Basics
 
-[Part 1: Importing, Modifying, Describing, & Plotting (8/28)](link)
+[Part 1: Importing, Modifying, Describing, & Plotting (8/28)](data_mng1.md)
