@@ -1,7 +1,7 @@
 
 # Introduction
 
-My name is Amanda Reed and I am currently a freshman at the College of William and Mary. I am from Philadelphia, PA and am interested in studying Computer Science or Math. I am interested in seeing how Data Science connects with my other interests and the world around us.
+My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman at the College of William and Mary and am interested in studying Computer Science or Math. I am interested in seeing how Data Science connects with my other interests and the world around us.
 
 # Index
 ## Getting Started with R and RStudio
