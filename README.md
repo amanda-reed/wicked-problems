@@ -9,3 +9,7 @@ My name is Amanda Reed and I am currently a freshman at the College of William a
 [Creating and Plotting Objects (8/24)](Plotting-with-R.md)
 
 [Creating a More Complicated Plot (8/26)](complicated-plot.md)
+
+## Data Management Basics
+
+[Part 1: Importing, Modifying, Describing, & Plotting (8/28)](link)
