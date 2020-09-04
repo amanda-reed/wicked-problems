@@ -14,4 +14,4 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 
 [Part 1: Importing, Modifying, Describing, & Plotting (8/28)](data_mng1.md)
 
-[Project 1: Part 1 (9/4](project1pt1.md)
+[Project 1: Part 1 (9/4)](project1pt1.md)
