@@ -21,8 +21,8 @@ struggles many AI system designers face in creating technology without bias or s
 
 #### References
 
-Lazzeri, F., PhD. (2020, June 02). How to Assess AI System's Fairness and Mitigate Any Observed Unfairness Issues. Retrieved September 09,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;2020, from https://medium.com/@ODSC/how-to-assess-ai-systems-fairness-and-mitigate-any-observed-unfairness-issues-cb2b56cffd11
+Lazzeri, F., PhD. (2020, June 02). How to Assess AI System's Fairness and Mitigate Any Observed &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Unfairness Issues. Retrieved September 09,
+2020, from https://medium.com/@ODSC/how-to-assess-ai-systems-fairness-and-mitigate-any-observed-unfairness-issues-cb2b56cffd11
 
-Wong, L. (2017, October 16). Experts Weigh in on Fairness and Performance Trade-Offs in Machine Learning. Retrieved September 09, 2020, 
+Wong, L. (2017, October 16). Experts Weigh in on Fairness and Performance Trade-Offs in Machine &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Learning. Retrieved September 09, 2020, 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;from https://www.theregreview.org/2017/10/04/wong-fairness-performance-machine-learning/
