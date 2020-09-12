@@ -6,6 +6,9 @@
 
 ![](doc_coll.png)
 
+I collected data regarding institutions and their admissions of 2015 from the National Center for Education Statistics' Data Center website for this section. I narrowed my data analysis to four year colleges and colleges offering docorate degrees. The plots above show the total number of applications per state for a given region of the US. 
+
+
 ## Part 2
 
 ![](states_pop3.png)
