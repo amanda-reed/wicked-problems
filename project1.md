@@ -20,8 +20,8 @@ Using data from the Census API from 2000, 2010, and 2014, I created a plot that 
 
 ![](states_pop9.png)
 
-Using the same data from Part 2, I plotted the data in 9 quantiles rather than 4.
+Using the same data from Part 2, I plotted the data in 9 quantiles rather than 4. I had to create a new quartile classification so the data was placed into 9 groups rather than 4. I then plotted the data in 3 columns. 
 
 ![](county_pop3.png)
 
-Using data from the 2000 and 2010 census, I graphed the population of Pennsylvania counties into 9 quartiles. 
+Using data from the 2000 and 2010 census, I collected and analyzed the data for US state counties. When subsetting the data, I selected counties with the state code 42, which was Pennsylvania. From there, I used a similar process as in Part 2 to analyze and plot the data in 9 quartiles.
