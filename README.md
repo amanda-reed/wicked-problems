@@ -21,3 +21,5 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 ## Projects
 
 [Project 1 (9/4)](project1.md)
+
+[Project 2 (9/21)](project2.md)
