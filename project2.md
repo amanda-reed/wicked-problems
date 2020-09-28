@@ -13,10 +13,8 @@ and the annual growth rate into 9 quantiles. The plots above show the facets for
 
 For the second part of Project 2, I retrieved data about the stocks of Expedia Group (EXPE), American Airlines (AAL), Marriott International (MAR), Tripadvisor (TRIP), Hilton (HLT), and Freightcar America Inc. (RAIL), all of which are related to the travel industry within the US. I used Expedia as the response variable and the remaining companies as predictors. 
 
-![](expe5x5.png)
-
 ![](expe6x6.png)
 
-![](summary(model_ex2).png)
+Summary of Model
 
-![](summary(model_ex3).png)
+<img src="model_summary.jpg" width="525" height="450" />
