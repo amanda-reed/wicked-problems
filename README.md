@@ -18,6 +18,8 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 
 [Reflection 1: Fairness in AI Systems (9/11)](response1.md)
 
+[Reflection 2: Using Facial Recognition for Disney's Animated Content (10/2)](response2.md)
+
 ## Projects
 
 [Project 1 (9/4)](project1.md)
