@@ -18,3 +18,11 @@ For the second part of Project 2, I retrieved data about the stocks of Expedia G
 Summary of Model
 
 <img src="model_summary.jpg" width="525" height="450" />
+
+## Part 3
+
+Using the same stocks from Part 2, I allocated a percentage of an initial investment of $10,000 into each of the 6 stocks. Based on the candlestick plots of each stock from Part 2 and various testing to optimize the growth of the investment, I found that the allocation shown below had one of the better returns of investment.
+
+![](stock_return.png)
+
+![](stock_growth.png)
