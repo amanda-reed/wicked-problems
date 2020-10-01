@@ -1,4 +1,4 @@
-## Data Science Reflection
+## Data Science Reflection 1
 
 ### Fairness in AI Systems
 
@@ -10,8 +10,7 @@ accurate, as these systems may be, there are often flaws in the fairness of perf
 Because technology is designed by humans with bias or prejudice, the result also has some level of bias or unfairness in its design. This can cause **allocation harms** or 
 **quality-of-service harms**. Allocation harms affect the extent to which users are given access to information or resources while quality-of-service harms affect the quality of 
 service for a given user. Even if the creator keeps fairmindedness in mind, their commitment to their own definition of fairness can have consequences. What may be impartial 
-in function may be discriminatory in practice. This is often referred to as **disparate-impact**. While some AI systems may have built in algorithms to deter from specific biases,
-it is this attention to certain groups that may still cause harm to users. 
+in function may be discriminatory in practice. This is often referred to as **disparate-impact**. While some AI systems may have built in algorithms to deter from specific biases, it is this attention to certain groups that may still cause harm to users. 
 
 Fairlearn is a Python package that can determine the fairness of an AI system. A dashboard is used to evaluate which groups are affected by unfairness and a series of 
 algorithms moderate unfairness. By using Fairlearn, businesses can assess the reputability of their systems in regard to how fair they perform given a series of tasks
