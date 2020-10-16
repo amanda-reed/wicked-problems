@@ -29,5 +29,5 @@ including its provinces.
 
 ![](bel_detail2.png)
 
-In the plot above, I showed the two most populous provinces of Belgium in more detail. Detail A shows Antwerpen and its 3 boroughs while Detail B shows Bruxelles and its 19 
+In the plot above, I showed the two most densely populated provinces of Belgium in more detail. Detail A shows Antwerpen and its 3 boroughs while Detail B shows Bruxelles and its 19 
 municipalities. For Antwerpen, I used adm3 to show more detail while I used adm4 for Bruxelles because the capital city is not broken into smaller regions until the municipalities are defined. 
