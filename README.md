@@ -20,6 +20,8 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 
 [Reflection 2: Using Facial Recognition for Disney's Animated Content (10/2)](response2.md)
 
+[Reflection 3: Deep Learning Object Detection and Disney's Content Genome (10/16)](response3.md)
+
 ## Projects
 
 [Project 1 (9/4)](project1.md)
