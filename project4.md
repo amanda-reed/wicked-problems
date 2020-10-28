@@ -37,3 +37,21 @@ plot.
 
 ### Creating a Geometric Bar Plot with Simple Feature object
 
+![](bel_barplot_gradient.png)
+
+The barplot above shows the total population of each region of Belgium and the distribution of Belgium's total population as a percent. The total populations are shown in decreasing order and are also indicated by the gradient colors.
+
+![](bel_map_percent.png)
+
+Using a heatmap of Belgium's regional populations from Part 1, I added the densities of each region (in persons/km^2).
+
+![](belgium.png)
+
+I combined the previous two plots to display the distribution of Belgium's population both numerically and graphically. The heatmap on the left indicates total population of that region as well as population density. The barplot has a coordinating gradient that also displays the percent of Belgium's total population.
+
+### Stretch Goal 1
+
+<img src="bel_adm2_bp.png" width="450" height="450" />
+
+Using data from Belgium's adm2 shapefile, I produced a barplot which displayed the population totals of each region while also showing the distribution of population among the provinces of each region. 
+
