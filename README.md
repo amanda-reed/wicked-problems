@@ -22,6 +22,8 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 
 [Reflection 3: Deep Learning Object Detection and Disney's Content Genome (10/16)](response3.md)
 
+[Reflection 4: Predicting Customer Retention using Churn Prediction Models (10/30)](response4.md)
+
 ## Projects
 
 [Project 1 (9/4)](project1.md)
