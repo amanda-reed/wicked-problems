@@ -28,5 +28,5 @@ more complex methods of detection are needed to recognize a broader range of obj
 Accardo, Anthony, et al. How Disney Uses PyTorch for Animated Character Recognition. 16 July 2020, medium.com/pytorch/how-disney-uses-pytorch-for-animated-character-
 recognition-a1722a182627. 
 
-Rosebrock, A. (2020, April 18). A Gentle guide to Deep Learning Object Detection. Retrieved October 16, 2020, from https://www.pyimagesearch.com/2018/05/14/a-gentle-
+Rosebrock, A. A Gentle guide to Deep Learning Object Detection. 18 April 2020, https://www.pyimagesearch.com/2018/05/14/a-gentle-
 guide-to-deep-learning-object-detection/
