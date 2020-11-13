@@ -24,6 +24,8 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 
 [Reflection 4: Predicting Customer Retention using Churn Prediction Models (10/30)](response4.md)
 
+[Reflection 5](response5.md)
+
 ## Projects
 
 [Project 1 (9/4)](project1.md)
@@ -35,3 +37,5 @@ My name is Amanda Reed and I am from Philadelphia, PA. I am currently a freshman
 [Project 4 (10/30)](project4.md)
 
 [Project 5 (11/6)](project5.md)
+
+[FinalProject](link.md)
