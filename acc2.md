@@ -1,6 +1,6 @@
 # Accessibility 2
 
-![](transport_ddm.png) ![](healthcare_ddm.png)
+<img src="transport_ddm.png" width="500" height="400" /> <img src="healthcare_ddm.png" width="500" height="400" />
 
 Using the urban areas plot from before and data from HDX, I plotted the railways and roads of Dendermonde. The modes of transportation often show where more urban lie. I also plotted the healthcare facilities for Dendermonde's region. Hospitals and clinics are shown with larger points while doctors, dentists, and pharmacies are shown with smaller points. 
 
