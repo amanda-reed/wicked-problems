@@ -1,6 +1,6 @@
 # Accessibility 1
 
-<img src="ddm_pop20.png" width="500" height="500" />  <img src="bel_adm3_ppp.png" width="500" height="600" /> 
+<img src="ddm_pop20.png" width="450" height="450" />  <img src="bel_adm3_ppp.png" width="450" height="525" /> 
 
 
 After importing adm3 data for Belgium from GADM, I cropped and masked the raster to include data for solely Dendermonde, a subdivision of Oost-Vlaanderen with a population of approximately 200,000. The first plot shows a simple density plot of the region while the second plot uses the spatial probability distribution to create a point pattern of the region. 
