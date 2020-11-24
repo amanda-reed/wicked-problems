@@ -8,6 +8,7 @@ After cropping the raster of Belgium to the region of Dendermonde, I converted t
 
 I then created a 3-dimensional plot of the region while adding shadows, shade, and water if neccessary. 
 
-![](ddm_overlay6.png)
+
+<img src="ddm_overlay6.png" width="500" height = "450" />
 
 Finally, I created a plot of an outline of the region, the polygons of the urban areas, roads, healthcare facilities, and a label for the largest city in the region. I plotted this overlay on top of the 3-dimensional plot to show an overarching image of the region.
